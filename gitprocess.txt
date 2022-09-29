@@ -1,0 +1,15 @@
+1 signup to github account
+
+2 login to github
+
+3 download gitbash and install in your system
+
+installation finished then
+
+open command prompt
+
+C:\ACER\USER>git
+
+check git is installed or not
+
+login to github and create a new repo
