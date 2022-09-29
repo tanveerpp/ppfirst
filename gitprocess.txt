@@ -8,8 +8,24 @@ installation finished then
 
 open command prompt
 
-C:\ACER\USER>git
+->C:\ACER\USER>git
 
 check git is installed or not
 
 login to github and create a new repo
+
+open command prompt:-
+->C:\Users\acer>D:
+
+->D:\>cd D:\ABCDE1285P
+
+D:\ABCDE1285P>
+
+git init
+git add .
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tanveerpp/ppfirst.git
+git push -u origin main
+
